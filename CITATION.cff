@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software or its archived results, please cite the associated article and software DOI."
+title: "Reproducible simulation code for energy-efficient federated multi-task learning"
+type: software
+version: 1.0.0
+date-released: 2026-09-15
+authors:
+  - family-names: Mollanejad
+    given-names: Amir
+    email: amir.mollanejad@iau.ac.ir
+  - family-names: Derakhshanfard
+    given-names: Nahideh
+    email: n.derakhshan@iaut.ac.ir
+  - family-names: Pour Haji Kazem
+    given-names: Ali Asghar
+    email: ali.pourhaji@istinye.edu.tr
+  - family-names: Dadashkhani
+    given-names: Neda
+    email: neda.dadashkhani@istinye.edu.tr
+  - family-names: Alkayid
+    given-names: Kholoud
+    email: k.kayid@ammanu.edu.jo
+  - family-names: Hosseinzadeh
+    given-names: Mehdi
+    email: mehdihosseinzadeh@duytan.edu.vn
+keywords:
+  - federated learning
+  - multi-task learning
+  - gradient sparsification
+  - Internet of Things
+  - reproducibility
+repository-code: "DOI_OR_REPOSITORY_URL_TO_BE_ASSIGNED"
+

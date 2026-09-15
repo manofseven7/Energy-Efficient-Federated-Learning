@@ -1,0 +1,12 @@
+{
+  "run_count": 90,
+  "expected_run_count": 90,
+  "all_finite": true,
+  "all_300_rounds": true,
+  "freezing_activated_any_run": false,
+  "proposed_payload_below_topk": {
+    "uci_har": false,
+    "cwru": false,
+    "intel_sensor": false
+  }
+}

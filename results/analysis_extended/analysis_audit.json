@@ -1,0 +1,11 @@
+{
+  "accepted_runs": 345,
+  "runs_by_family": {
+    "main": 90,
+    "component": 75,
+    "sigma": 75,
+    "eta": 60,
+    "rho": 45
+  },
+  "acceptance_rule": "300 rounds; seeds 11/22/33/44/55; 80 clients (52 observed Intel sensors); 24 selected"
+}
